@@ -15,6 +15,17 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+
+**PreSumm: Predicting Summarization Performance Without Summarizing**                      
+_Steven Koniaev*, <ins>Ori Ernst</ins>*, Jackie Chi Kit Cheung_                                           <br />&nbsp; *equal contribution                              
+Findings of the Association for Computational Linguistics (ACL Findings), 2025
+<br />&nbsp; [Paper](https://arxiv.org/abs/2504.05420), [Data](https://github.com/oriern/PreSumm)
+
+**Improving the Calibration of Confidence Scores in Text Generation Using the Output Distribution's Characteristics**                      
+_Lorenzo Jaime Yu Flores, <ins>Ori Ernst</ins>, Jackie Chi Kit Cheung_                                
+The Annual Meeting of the Association for Computational Linguistics (ACL), 2025
+<br />&nbsp; [Paper](),
+
 **The Power of Summary-Source Alignments**                      
 _<ins>Ori Ernst</ins>, Ori Shapira, Aviv Slobodkin, Sharon Adar, Mohit Bansal, Jacob Goldberger, Ran Levy, Ido Dagan_                                
 Findings of the Association for Computational Linguistics (ACL Findings), 2024

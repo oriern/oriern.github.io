@@ -16,15 +16,25 @@ author_profile: true
 {% endfor %} -->
 
 
+**Where Did That Come From? Sentence-Level Error-Tolerant Attribution**                      
+_<ins>Ori Ernst</ins>, Aviv Slobodkin, Meng Cao, Sihui Wei, Jackie Chi Kit Cheung_                                           <br />&nbsp; *equal contribution                              
+The Conference of Empirical Methods in Natural Language Processing, Findings (EMNLP Findings), 2025
+<br />&nbsp; [Paper](https://aclanthology.org/2025.findings-emnlp.339.pdf)
+
+**Beyond Paraphrasing: Analyzing Summarization Abstractiveness and Reasoning**                      
+_Nathan Zeweniuk, <ins>Ori Ernst</ins>, Jackie Chi Kit Cheung_                                           <br />&nbsp; *equal contribution                              
+Proceedings of The 5th New Frontiers in Summarization Workshop (NewSumm) at EMNLP, 2025
+<br />&nbsp; [Paper](https://aclanthology.org/2025.newsum-main.4.pdf)
+
 **PreSumm: Predicting Summarization Performance Without Summarizing**                      
 _Steven Koniaev*, <ins>Ori Ernst</ins>*, Jackie Chi Kit Cheung_                                           <br />&nbsp; *equal contribution                              
 Findings of the Association for Computational Linguistics (ACL Findings), 2025
-<br />&nbsp; [Paper](https://arxiv.org/abs/2504.05420), [Data](https://github.com/oriern/PreSumm)
+<br />&nbsp; [Paper](https://aclanthology.org/2025.findings-acl.940.pdf), [Data](https://github.com/oriern/PreSumm)
 
 **Improving the Calibration of Confidence Scores in Text Generation Using the Output Distribution's Characteristics**                      
 _Lorenzo Jaime Yu Flores, <ins>Ori Ernst</ins>, Jackie Chi Kit Cheung_                                
 The Annual Meeting of the Association for Computational Linguistics (ACL), 2025
-<br />&nbsp; [Paper](),
+<br />&nbsp; [Paper](https://aclanthology.org/2025.acl-short.15.pdf)
 
 **The Power of Summary-Source Alignments**                      
 _<ins>Ori Ernst</ins>, Ori Shapira, Aviv Slobodkin, Sharon Adar, Mohit Bansal, Jacob Goldberger, Ran Levy, Ido Dagan_                                

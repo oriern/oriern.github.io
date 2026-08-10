@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ori Ernst's Homepage"
 title_separator          : "-"
 name                     : &name "Ori Ernst"
-description              : &description "Postdoc and NLP Researcher"
+description              : &description "Assistant Professor and NLP Researcher"
 url                      : https://oriern.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aviclu/aviclu.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ori Ernst"
   avatar           : "avatar.jpg"
-  bio              : "Postdoc and NLP Researcher"
+  bio              : "Assistant Professor and NLP Researcher"
   location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.il/citations?hl=iw&user=_AZDDnMAAAAJ"
-  email            :
+  email            : "oriern@gmail.com"
   researchgate     : #"https://www.researchgate.net/profile/Avi-Caciularu"
   uri              :
   bitbucket        :

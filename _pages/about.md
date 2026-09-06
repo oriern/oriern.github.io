@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor (Senior Lecturer) at the [Faculty of Engineering at Bar Ilan University](https://engineering.biu.ac.il/).
-
 My research lies at the intersection of data, language models, and AI agents. I focus on making data more accessible and useful to AI systems, particularly by developing methods to identify data that is unsuitable for language models and agents, understand why it fails, and automatically improve it.  
 I also develop more precise and reliable methods for evaluating AI systems, as well as multimodal approaches that combine speech and text models.
 

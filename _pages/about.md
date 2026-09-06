@@ -8,15 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor (Senior Lecturer) at the [Faculty of Engineering at Bar Ilan University](https://engineering.biu.ac.il/). I study generative language models (e.g., LLMS) through a data-centric and modular lens, focusing on attribution, evaluation, and data analysis to understand and improve when and why these models generate low-quality and unfaithful outputs.
+I am an Assistant Professor (Senior Lecturer) at the [Faculty of Engineering at Bar Ilan University](https://engineering.biu.ac.il/). My research lies at the intersection of data, language models, and AI agents. I focus on making data more accessible and useful to AI systems, particularly by developing methods to identify data that is unsuitable for language models and agents, understand why it fails, and automatically improve it.
+I also develop more precise and reliable methods for evaluating AI systems, as well as multimodal approaches that combine speech and text models.
 
-Previously, I was a postdoctoral researcher in the [Natural Language Processing Lab](https://www.cs.mcgill.ca/~jcheung/group.html) at [McGill University](https://mcgill-nlp.github.io/) & [Mila](https://mila.quebec/en/) working with [Prof. Jackie Cheung](https://www.cs.mcgill.ca/~jcheung/). I have completed my Ph.D. in the [Natural Language Processing Lab](https://biu-nlp.github.io/) at [Bar-Ilan University](https://www1.biu.ac.il/), under the supervision of [Prof. Ido Dagan](https://u.cs.biu.ac.il/~dagan/) and [Prof. Jacob Goldberger](http://www.eng.biu.ac.il/goldbej/). Prior to that, I finished my M.Sc. (magna cum laude) in the [Speech Processing Lab](https://research.biu.ac.il/labs/prof-gannots-lab/), and my B.Sc. (summa cum laude), both in Electrical Engineering.
+Previously, I was a postdoctoral researcher in the [Natural Language Processing Lab](https://www.cs.mcgill.ca/~jcheung/group.html) at [McGill University](https://mcgill-nlp.github.io/) and [Mila](https://mila.quebec/en/). I received my Ph.D. from the [Natural Language Processing Lab](https://biu-nlp.github.io/) at [Bar-Ilan University](https://www1.biu.ac.il/). I have also conducted research at Amazon Research, IBM Research, and Intel’s AI Solutions Group.
 
-During my graduate studies, I was fortunate to intern at Amazon Research, IBM Research, and Intel (AI Solutions group).
+**I am hiring!** I am currently looking for motivated M.Sc. and Ph.D. students who are excited about tackling challenging research problems in these areas. If you are interested in developing new methods for building and evaluating AI systems, please get in touch.
 
-When I'm not researching, I enjoy listening to good music and occasionally performing magic tricks for kids.
 
-If you would like to work with my lab, send me an email with your CV and a brief note about your research interests, I'm recruiting!
 
 
 

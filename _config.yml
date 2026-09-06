@@ -82,9 +82,7 @@ analytics:
 author:
   name             : "Ori Ernst"
   avatar           : "avatar.jpg"
-  bio              : |
-                     Assistant Professor and NLP Researcher
-                     Bar Ilan University
+  bio              : "Assistant Professor and NLP Researcher\nBar Ilan University"
   location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
